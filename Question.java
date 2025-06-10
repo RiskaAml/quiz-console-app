@@ -39,5 +39,4 @@ public class Question {
     public String getAnswer() {
         return answer;
     }
-
 }
